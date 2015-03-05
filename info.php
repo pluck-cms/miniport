@@ -1,5 +1,4 @@
 <?php
-
 $themedir = 'miniport';
 $themename = 'miniport';
 $module_space[0] = 'main';
